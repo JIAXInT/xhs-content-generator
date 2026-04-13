@@ -1,0 +1,8 @@
+[
+  {
+    "card_id": 1,
+    "title": "ChatGPT提示词工程",
+    "has_character": true,
+    "prompt": "A cyberpunk flat vector illustration of an AI tutorial infographic, Xiaohongshu style, 3:4 aspect ratio (1080x1440).\nCharacter: An Asian male programmer, 28 years old, short fluffy black hair with blue highlights, wearing black-framed glasses with slight blue light reflection, confident smile, round face. He wears a black hoodie with a glowing AI circuit icon (neon blue) on the chest, headphones around his neck. Cyberpunk flat illustration style with neon glow effects.\nLayout: Character in center taking up 50% of the space. Top 15% has title banner. Bottom 20% has three horizontal data badges with neon blue borders.\nBackground: Dark theme (#0D1117) with tech grid lines and floating code snippets.\n\n[CRITICAL INSTRUCTION FOR TEXT RENDERING]\nRender the following text EXACTLY as provided in Chinese characters. DO NOT translate to English. Use bold, clear sans-serif font with neon glow effect.\n- Top right brand: \"AI创享派\"\n- Top left badge: \"1/10\"\n- Main Title: \"ChatGPT提示词工程\"\n- Subtitle: \"从入门到精通 全攻略\"\n- Badge 1: \"🤖6大核心技巧\"\n- Badge 2: \"📝实战案例10+\"\n- Badge 3: \"⚡效率提升300%\"\n- Bottom banner: \"不会写Prompt？这篇帮你彻底搞定！\""
+  }
+]
