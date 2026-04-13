@@ -179,23 +179,22 @@ Step 6: 📦 输出交付 → 飞书文档
 
 **英文描述画面 + 中文文字在引号内 + 严厉Do Not Translate指令**
 
-**格式模板**：
+**格式模板**（⚠️ 严格遵守）：
 
 ```
-A 2D flat vector illustration of a fitness infographic, Xiaohongshu style, 3:4 aspect ratio.
-[英文描述画面布局、人物、背景、配色]
+A 2D flat vector illustration of a fitness infographic, Xiaohongshu style, 3:4 aspect ratio (1080x1440).
+[英文描述画面布局、人物、背景 - 保持简短]
 
 [CRITICAL INSTRUCTION FOR TEXT RENDERING]
-Render the following text EXACTLY as provided in Chinese characters. DO NOT translate to English. Use bold, clear sans-serif font.
-- Top banner text: "练对了吗"
+Render the following text EXACTLY as provided in Chinese characters. DO NOT translate them to English. Use a bold, clear sans-serif font.
+- Top right brand text: "练对了吗"
 - Top left badge text: "1/10"
-- Main Title: "标题内容"
-- Subtitle: "副标题内容"
-- Content text: "具体内容"
-- Bottom banner text: "底部金句"
+- Main Title (large text): "主标题"
+- Subtitle: "副标题"
+- Line 1: "第一行内容"
+- Line 2: "第二行内容"
+- Bottom text: "底部金句"
 ```
-
-**关键原则**：
 1. 画面描述（布局、人物、背景、颜色）用英文
 2. 需要渲染的文字用中文，放在引号内
 3. 文字前加 `[CRITICAL INSTRUCTION FOR TEXT RENDERING]` + `DO NOT translate to English`
