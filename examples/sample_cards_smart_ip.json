@@ -1,0 +1,62 @@
+[
+  {
+    "card_id": 1,
+    "title": "三分化Day2·拉日训练",
+    "has_character": true,
+    "prompt": "A 2D flat vector illustration of a fitness infographic, Xiaohongshu style, 3:4 aspect ratio.\nCharacter: A muscular 25-year-old Asian male, short fluffy black hair with highlights, thick dark eyebrows, long brown eyes, gentle warm smile, square face with clear jawline, warm tan skin. He wears a dark navy blue sleeveless athletic tank top with orange trim on the neckline and armhole edges. Well-developed biceps and deltoids visible.\nLayout: Character in center taking up 50% of the space, standing confidently with arms crossed. Top 15% has title banner. Bottom 20% has three horizontal data badges with orange borders. Character is the visual focal point of this cover card.\nBackground: Light warm beige with dynamic radial speed lines.\n\n[CRITICAL INSTRUCTION FOR TEXT RENDERING]\nRender the following text EXACTLY as provided in Chinese characters. DO NOT translate to English.\n- Top right brand: \"练对了吗\"\n- Top left badge: \"1/10\"\n- Main Title: \"三分化Day2·拉日训练\"\n- Subtitle: \"背部+二头+后束 全攻略\"\n- Badge 1: \"💪训练目标\"\n- Badge 2: \"⏱️45-60分钟\"\n- Badge 3: \"🔥8个核心动作\"\n- Bottom banner: \"背练不大？这篇帮你彻底解决！\"\n"
+  },
+  {
+    "card_id": 2,
+    "title": "背部肌群解剖",
+    "has_character": false,
+    "prompt": "A 2D flat vector illustration of a fitness infographic, Xiaohongshu style, 3:4 aspect ratio.\nClean design with no human character. Focus on data visualization, icons, and text layout.\nLayout: Top 15% title area with dark blue background. Middle 75% has THREE large knowledge cards stacked vertically, each taking 25% height. Each card has a large emoji icon on the left and detailed Chinese text on the right. Clean educational style, like a textbook page.\nBackground: Light warm beige.\n\n[CRITICAL INSTRUCTION FOR TEXT RENDERING]\nRender the following text EXACTLY as provided in Chinese characters. DO NOT translate to English.\n- Top right brand: \"练对了吗\"\n- Top left badge: \"2/10\"\n- Title: \"背部肌群解剖\"\n- Subtitle: \"知其然更知其所以然\"\n- Card 1: \"🦴背阔肌：背部最宽大的扇形肌群，从腋下延伸到腰侧。决定背部宽度。负责肩关节内收和伸展。训练动作：引体向上、高位下拉。\"\n- Card 2: \"🦴斜方肌：位于上背和颈部，分为上中下三束。负责肩胛骨上提、后缩和下沉。影响背部厚度。训练动作：杠铃划船。\"\n- Card 3: \"🦴三角肌后束：位于肩关节后方，经常被忽视。负责肩关节外旋和水平外展。改善圆肩驼背。训练动作：绳索面拉、反向飞鸟。\"\n- Bottom banner: \"了解肌群才能精准发力，念动合一是关键\"\n"
+  },
+  {
+    "card_id": 3,
+    "title": "训练原理",
+    "has_character": false,
+    "prompt": "A 2D flat vector illustration of a fitness infographic, Xiaohongshu style, 3:4 aspect ratio.\nClean design with no human character. Focus on data visualization, icons, and text layout.\nLayout: Top 15% title area. Middle 75% has FOUR principle cards stacked vertically, each with a large icon (💡) and Chinese title + detailed explanation. Clean information design, no character.\nBackground: Light warm beige.\n\n[CRITICAL INSTRUCTION FOR TEXT RENDERING]\nRender the following text EXACTLY as provided in Chinese characters. DO NOT translate to English.\n- Top right brand: \"练对了吗\"\n- Top left badge: \"3/10\"\n- Title: \"训练原理\"\n- Principle 1: \"💡推拉分化：将训练分为推日和拉日，让对抗肌群轮流休息，每个肌群一周练2次，增肌效率最高。\"\n- Principle 2: \"💡渐进超负荷：每周逐步增加重量或次数，给肌肉新的刺激，这是增肌的唯一法则。不进步就是在退步。\"\n- Principle 3: \"💡念动合一：训练时注意力集中在目标肌群，感受肌肉的收缩和拉伸，神经募集更多肌纤维，效果提升30%。\"\n- Principle 4: \"💡离心控制：下放阶段慢速控制3秒，比快速放下多激活20%肌纤维，是增肌的秘密武器。\"\n- Bottom banner: \"知其然更知其所以然，练对了才能事半功倍\"\n"
+  },
+  {
+    "card_id": 4,
+    "title": "热身准备",
+    "has_character": false,
+    "prompt": "A 2D flat vector illustration of a fitness infographic, Xiaohongshu style, 3:4 aspect ratio.\nClean design with no human character. Focus on data visualization, icons, and text layout.\nLayout: Top 15% title area. Middle 75% has FOUR step cards stacked vertically, each with a large orange number circle (①②③④), exercise name, sets/reps data, and detailed instruction. Orange left border accent on each card. Clean list design, no character.\nBackground: Light warm beige.\n\n[CRITICAL INSTRUCTION FOR TEXT RENDERING]\nRender the following text EXACTLY as provided in Chinese characters. DO NOT translate to English.\n- Top right brand: \"练对了吗\"\n- Top left badge: \"4/10\"\n- Title: \"热身准备\"\n- Subtitle: \"8分钟激活背部\"\n- Step 1: \"①肩胛骨下沉激活 | 15次×2组：双手握杠悬挂，主动下沉肩胛骨，感受背阔肌启动。激活肩袖肌群，预防受伤。\"\n- Step 2: \"②弹力带面拉 | 15次×2组：弹力带固定在面前，双手拉向脸部两侧，外旋手腕。激活后束和菱形肌。\"\n- Step 3: \"③猫牛式 | 10次：四点跪姿，吸气抬头塌腰，呼气弓背低头。活动胸椎，增加背部活动度。\"\n- Step 4: \"④哑铃直臂上提 | 12次×1组：仰卧，双手持轻哑铃过头，直臂拉到大腿位置。激活背阔肌。\"\n- Bottom banner: \"冷启动背部容易受伤，充分热身效率提升20%\"\n"
+  },
+  {
+    "card_id": 5,
+    "title": "引体向上详解",
+    "has_character": true,
+    "prompt": "A 2D flat vector illustration of a fitness infographic, Xiaohongshu style, 3:4 aspect ratio.\nCharacter: A muscular 25-year-old Asian male, short fluffy black hair with highlights, thick dark eyebrows, long brown eyes, gentle warm smile, square face with clear jawline, warm tan skin. He wears a dark navy blue sleeveless athletic tank top with orange trim on the neckline and armhole edges. Well-developed biceps and deltoids visible.\nLayout: Character on the left (30% width) performing a pull-up motion, back muscles highlighted in yellow glow. Right side (65% width) has dense training data: data bar, 3 technique points, breathing, common mistake (red), progression options. Character demonstrates the exercise.\nBackground: Light warm beige.\n\n[CRITICAL INSTRUCTION FOR TEXT RENDERING]\nRender the following text EXACTLY as provided in Chinese characters. DO NOT translate to English.\n- Top right brand: \"练对了吗\"\n- Top left badge: \"5/10\"\n- Title: \"①引体向上（宽握）\"\n- Subtitle: \"背部训练之王\"\n- Data: \"4组×6-10次 | 休息90秒 | 背阔肌+斜方肌下束\"\n- Point 1: \"💪肩胛骨先下沉再后收，带动身体上拉\"\n- Point 2: \"💪想象胸部去碰杠，不是下巴\"\n- Point 3: \"💪顶峰收缩1秒，感受背阔肌挤压\"\n- Breathing: \"上拉呼气2秒 | 下放吸气3秒\"\n- Mistake: \"❌身体摆荡借力→背阔肌刺激不足\"\n- Progression: \"🔄进阶：负重引体 | 降阶：弹力带辅助\"\n- Bottom banner: \"引体是背部之王，做不了就用弹力带辅助\"\n"
+  },
+  {
+    "card_id": 6,
+    "title": "杠铃划船详解",
+    "has_character": true,
+    "prompt": "A 2D flat vector illustration of a fitness infographic, Xiaohongshu style, 3:4 aspect ratio.\nCharacter: A muscular 25-year-old Asian male, short fluffy black hair with highlights, thick dark eyebrows, long brown eyes, gentle warm smile, square face with clear jawline, warm tan skin. He wears a dark navy blue sleeveless athletic tank top with orange trim on the neckline and armhole edges. Well-developed biceps and deltoids visible.\nLayout: Character on the left (30% width) performing a barbell row at 45-degree angle, back muscles highlighted. Right side has dense training data. Small angle diagram showing correct 45-degree body position with green checkmark vs wrong hunched position with red X.\nBackground: Light warm beige.\n\n[CRITICAL INSTRUCTION FOR TEXT RENDERING]\nRender the following text EXACTLY as provided in Chinese characters. DO NOT translate to English.\n- Top right brand: \"练对了吗\"\n- Top left badge: \"6/10\"\n- Title: \"②杠铃划船\"\n- Subtitle: \"背部厚度关键\"\n- Data: \"4组×8-10次 | 休息90秒 | 背阔肌+斜方肌中束\"\n- Point 1: \"💪俯身45度，脊柱保持中立不弓背\"\n- Point 2: \"💪肘贴身拉，用背阔肌夹的力量\"\n- Point 3: \"💪杠铃沿大腿拉到肚脐，顶峰收缩1秒\"\n- Mistake: \"❌弓背用腰发力→腰椎损伤\"\n- Self check: \"自检：腰比背累就是错了！\"\n- Bottom banner: \"俯身角度不对，练的是腰不是背\"\n"
+  },
+  {
+    "card_id": 7,
+    "title": "绳索划船+高位下拉",
+    "has_character": false,
+    "prompt": "A 2D flat vector illustration of a fitness infographic, Xiaohongshu style, 3:4 aspect ratio.\nClean design with no human character. Focus on data visualization, icons, and text layout.\nLayout: Top 10% title. Middle divided into TWO equal sections (45% each) with a wavy divider. Top section: exercise ③ with icon, name, data, and detailed content. Bottom section: exercise ④ same format. Clean data-focused design, no character.\nBackground: Light warm beige.\n\n[CRITICAL INSTRUCTION FOR TEXT RENDERING]\nRender the following text EXACTLY as provided in Chinese characters. DO NOT translate to English.\n- Top right brand: \"练对了吗\"\n- Top left badge: \"7/10\"\n- Title: \"绳索划船+高位下拉\"\n- Subtitle: \"背部厚度+宽度双杀\"\n- Top section: \"③坐姿绳索划船 | 3组×10-12次 | 休息75秒：窄握把手，后拉时挤压肩胛骨像夹住一支笔。躯干固定不后仰，只动手臂。顶峰收缩1-2秒。❌不要身体后仰借力。\"\n- Bottom section: \"④高位下拉（窄握）| 3组×10-12次 | 休息75秒：拉到锁骨位置，肘向后推。感受背阔肌从腋下到腰侧的全程收缩。下拉呼气，上放吸气。❌不要拉到肚子位置。\"\n- Bottom banner: \"顶峰收缩1-2秒，背部感受翻倍\"\n"
+  },
+  {
+    "card_id": 8,
+    "title": "后束+手臂收尾",
+    "has_character": false,
+    "prompt": "A 2D flat vector illustration of a fitness infographic, Xiaohongshu style, 3:4 aspect ratio.\nClean design with no human character. Focus on data visualization, icons, and text layout.\nLayout: Top 10% title. Middle 80% has THREE exercise sections stacked vertically (27% each), each with exercise name, sets/reps, and key points. Clean data layout, no character needed.\nBackground: Light warm beige.\n\n[CRITICAL INSTRUCTION FOR TEXT RENDERING]\nRender the following text EXACTLY as provided in Chinese characters. DO NOT translate to English.\n- Top right brand: \"练对了吗\"\n- Top left badge: \"8/10\"\n- Title: \"后束+手臂收尾\"\n- Subtitle: \"面拉+飞鸟+弯举\"\n- Exercise 1: \"⑤绳索面拉 | 3组×12-15次 | 休息60秒：后束主发力，想象手肘去碰耳朵后面。拉到脸旁时外旋手腕。❌不要用手臂拉，用后肩带动。\"\n- Exercise 2: \"⑥反向飞鸟 | 3组×12次 | 休息60秒：三角肌后束孤立动作。肩胛下沉别耸肩。❌耸肩代偿导致斜方肌上束发力过多。\"\n- Exercise 3: \"⑦⑧锤式+反握弯举 | 各3组×10-12次：拉日收尾动作，别练太多，背才是主角。大拇指朝上握哑铃，靠墙防借力。\"\n- Bottom banner: \"后束强=体态好，圆肩驼背的克星\"\n"
+  },
+  {
+    "card_id": 9,
+    "title": "4大避坑雷区",
+    "has_character": true,
+    "prompt": "A 2D flat vector illustration of a fitness infographic, Xiaohongshu style, 3:4 aspect ratio.\nCharacter: A muscular 25-year-old Asian male, short fluffy black hair with highlights, thick dark eyebrows, long brown eyes, gentle warm smile, square face with clear jawline, warm tan skin. He wears a dark navy blue sleeveless athletic tank top with orange trim on the neckline and armhole edges. Well-developed biceps and deltoids visible.\nLayout: Character in center showing confused expression. Surrounding the character are FOUR comparison boxes, each split into red (wrong, with X icon) and green (correct, with checkmark). Character demonstrates the mistakes and corrections visually.\nBackground: Light warm beige, left sides have faint red tint, right sides have faint green tint.\n\n[CRITICAL INSTRUCTION FOR TEXT RENDERING]\nRender the following text EXACTLY as provided in Chinese characters. DO NOT translate to English.\n- Top right brand: \"练对了吗\"\n- Top left badge: \"9/10\"\n- Title: \"4大避坑雷区\"\n- Pitfall 1 red: \"❌只练背不做后束→圆肩驼背\"\n- Pitfall 1 green: \"✅每次拉日至少2个后束动作\"\n- Pitfall 2 red: \"❌划船用腰发力→腰椎损伤\"\n- Pitfall 2 green: \"✅脊柱中立·背阔肌发力\"\n- Pitfall 3 red: \"❌引体跳过→永远练不大\"\n- Pitfall 3 green: \"✅弹力带辅助·离心引体突破\"\n- Pitfall 4 red: \"❌手臂代偿→背没感觉\"\n- Pitfall 4 green: \"✅手是钩子·肘带动背阔肌\"\n- Bottom banner: \"训练效果=正确动作×训练量\"\n"
+  },
+  {
+    "card_id": 10,
+    "title": "4周训练计划",
+    "has_character": false,
+    "prompt": "A 2D flat vector illustration of a fitness infographic, Xiaohongshu style, 3:4 aspect ratio.\nClean design with no human character. Focus on data visualization, icons, and text layout.\nLayout: Top 10% title. Middle 60% has FOUR week cards stacked vertically, each with different color accent (week1 blue, week2 green, week3 orange, week4 gray) showing training schedule. Bottom 20% split into nutrition advice (left) and safety warning (right). Clean table/chart design, no character - this is a data card.\nBackground: Light warm beige.\n\n[CRITICAL INSTRUCTION FOR TEXT RENDERING]\nRender the following text EXACTLY as provided in Chinese characters. DO NOT translate to English.\n- Top right brand: \"练对了吗\"\n- Top left badge: \"10/10\"\n- Title: \"4周训练计划\"\n- Subtitle: \"渐进超负荷+饮食安全\"\n- Week 1 (blue): \"📅第1周·适应期：引体4组×6次+划船3组×8次 | 建立动作模式，不追求重量\"\n- Week 2 (green): \"📈第2周·提升期：引体4组×8次+划船4组×10次 | 适当增加重量或次数\"\n- Week 3 (orange): \"🔥第3周·突破期：引体4组×10次+划船4组×10次加重 | 冲击个人最佳\"\n- Week 4 (gray): \"😴第4周·减载期：引体3组×8次+划船3组×8次减重 | 让身体充分恢复\"\n- Nutrition: \"🥗蛋白质1.6-2.2g/kg | 练后30分钟补蛋白+碳水 | 睡眠7-8小时\"\n- Safety: \"⚠️肩袖损伤/腰突/高血压不适合 | 锐痛头晕手麻立即停 | 每周2次间隔48小时\"\n- Bottom banner: \"渐进超负荷是增肌唯一法则，每周进步一点点\"\n"
+  }
+]
