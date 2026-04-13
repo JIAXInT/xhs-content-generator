@@ -40,17 +40,21 @@ Step 6: 📦 输出交付 → 飞书文档
 
 ## 🎨 AI 主题视觉规范
 
-### 配色方案
+### 配色方案（有设计感）
 
 | 用途 | 色号 | 说明 |
 |------|------|------|
-| 背景 | #0D1117 | 深色暗黑主题 |
-| 主色 | #58A6FF | 科技蓝 |
-| 强调色 | #A371F7 | 霓虹紫 |
-| 辅助色 | #3FB950 | 代码绿 |
-| 警告色 | #F85149 | 错误红 |
-| 文字 | #F0F6FC | 亮白 |
-| 次要文字 | #8B949E | 灰色 |
+| 背景渐变 | #EEF2FF → #FFFFFF | 淡靛紫到白 |
+| 卡片背景 | #FFFFFF | 白色 + 柔和阴影 |
+| 主文字 | #1E293B | 深蓝灰 |
+| 强调色 | #4F46E5 | 靛蓝（有质感） |
+| 辅助色 | #7C3AED | 柔和紫 |
+| 成功色 | #10B981 | 翠绿 |
+| 错误色 | #F43F5E | 玫瑰红 |
+| 次要文字 | #64748B | 蓝灰 |
+| 边框 | #E2E8F0 | 浅蓝灰 |
+| 卡片圆角 | 16px | 柔和圆角 |
+| 阴影 | elevation 2 | 柔和投影 |
 
 ### IP 角色：码哥 (CodeBro)
 
@@ -62,16 +66,19 @@ Step 6: 📦 输出交付 → 飞书文档
 | 发型 | 黑色蓬松短发，有蓝色挑染 |
 | 眼睛 | 戴黑框眼镜，眼神专注 |
 | 表情 | 自信微笑，偶尔调皮眨眼 |
-| 服装 | 黑色连帽卫衣，胸前有发光的 AI 图标 |
-| 配饰 | 耳机挂在脖子上，手腕有智能手表 |
+| 服装 | 白色简约T恤，胸前有小号蓝色AI图标 |
+| 配饰 | 黑框眼镜，耳机挂在脖子上 |
 | 气质 | 极客范、技术宅、亲切 |
 
 ### 画风
 
-- 风格：赛博朋克扁平插画（Cyberpunk Flat）
-- 线条：霓虹发光效果
-- 背景：深色+科技感网格/代码流
-- 特效：像素化元素、代码片段装饰
+- 风格：有设计感的简约风（Stylish Minimal）
+- 线条：干净利落，适量装饰
+- 背景：柔和渐变（淡靛紫 #EEF2FF → 白 #FFFFFF）
+- 配色：靛蓝(#4F46E5)+紫(#7C3AED)+绿(#10B981)
+- 卡片：圆角16px + 柔和阴影
+- 装饰：左侧色条、标签、渐变
+- 参考：Linear / Notion / Vercel 风格
 
 ---
 
@@ -138,9 +145,32 @@ Step 6: 📦 输出交付 → 飞书文档
 
 你是首席视觉架构师，专精将 AI 教程大纲转化为知识卡片数据结构。
 
-### 🚨 ai_prompt 格式铁律
+### 🚨 ai_prompt 格式铁律（⚠️ 严格遵守）
 
 **英文描述画面 + 中文文字在引号内 + 严厉 Do Not Translate 指令**
+
+**格式模板**（完全按照用户确认的参考格式）：
+```
+A 2D flat vector illustration of a [主题] infographic, Xiaohongshu style, 3:4 aspect ratio (1080x1440).
+[英文描述画面布局、人物、背景 - 保持简短]
+
+[CRITICAL INSTRUCTION FOR TEXT RENDERING]
+Render the following text EXACTLY as provided in Chinese characters. DO NOT translate them to English. Use a bold, clear sans-serif font.
+- Top right brand text: "品牌名"
+- Top left badge text: "1/10"
+- Main Title (large text): "主标题"
+- Subtitle: "副标题"
+- Line 1: "第一行内容"
+- Line 2: "第二行内容"
+- Bottom text: "底部金句"
+```
+
+**⚠️ 铁律**：
+1. 中文文字 **每个单独一行**
+2. 格式严格：`- 描述性标签: "中文内容"`
+3. **不要多句话放一个引号**，拆分！
+4. 禁翻指令：`DO NOT translate them to English. Use a bold, clear sans-serif font.`
+5. 标签用描述性语言：Top right brand text, Main Title (large text), Subtitle, Bottom text
 
 ### IP 智能出现规则
 
@@ -216,11 +246,27 @@ Step 6: 📦 输出交付 → 飞书文档
 
 ## 版本历史
 
+### v1.4 (2026-04-12) - 参考格式修复
+- 严格按用户参考格式：DO NOT translate them to English
+- 标签用描述性语言：Top right brand text, Main Title (large text)
+- 加字体指令：Use a bold, clear sans-serif font
+
+### v1.3 (2026-04-12) - 格式修复
+- 修复ai_prompt中文被翻译问题
+- 每个中文文字单独一行
+- 禁翻指令全大写
+
+### v1.2 (2026-04-12) - 设计感版
+- 视觉风格：有设计感的简约风（Linear/Notion风格）
+- 配色：靛蓝(#4F46E5)+柔和紫+翠绿
+- 背景：柔和渐变（淡紫→白）
+
+### v1.1 (2026-04-12) - 清爽简约版
+- 从赛博朋克改为清爽简约
+
 ### v1.0 (2026-04-12) - 初始版本
 - 基于 xiaohongshu-content-generator 框架
 - AI/AIGC 主题适配
-- 赛博朋克视觉风格
 - 码哥 IP 角色
 - 10 张卡片矩阵
 - 智能 IP 出现规则
-- 英文描述+中文引号+DO NOT TRANSLATE
